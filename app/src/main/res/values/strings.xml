@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductivityInAction</string>
+    <string name="text1">Digite sua nova tarefa</string>
+    <string name="btn1">Nova Tarefa</string>
+    <string name="delete">Apagar</string>
+    <string name="piatext">PRODUCTIVITY IN ACTION</string>
+</resources>
